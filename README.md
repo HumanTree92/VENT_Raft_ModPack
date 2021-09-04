@@ -8,6 +8,16 @@ This is a Mod Pack for Velociti Entertainments Private Raft Server.
 4) Then open RMLLauncher and click on Mods Folder.
 5) Place all the Mods in Main Files into the Mods Folder
 
+# Optional Blueprints Installation:
+1) Go to AppData > LocalLow > Redbeet Interactive > Raft > User > Profile_Here > raftBlueprints
+2) Place all the Blueprints that you want to use in the raftBlueprints Folder
+
+# How To:
+1) Open RMLLauncher and Click on Play
+2) Click on Mod Manager and make sure all mods are Loaded at Startup by click on the Infinity Symbol
+3) Click F9 and go to the Raft Settings > Mods
+4) Make Sure No Support Override is Checked
+
 # Visit Velociti Entertainment:
 * [Discord](http://discord.velocitientertainment.com)
 * [Website](http://velocitientertainment.com/)
