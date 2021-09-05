@@ -18,6 +18,17 @@ This is a Mod Pack for Velociti Entertainments Private Raft Server.
 3) Click F9 and go to the Raft Settings > Mods
 4) Make Sure No Support Override is Checked
 
+# Blueprint Info:
+* VENT_House - Floating Raft shapped like a House with a Front Yard.
+  * Status: WIP - But Still usable
+  * Required Mods: Antenna Anywhere, Arashi Fishing Expansion, Cinema Mod, Extra Settings API, Furniture Mod, More Storages, Stackable Placeables, Super Soaker, & WiFi Antenna.
+* VENT_Pirates - Pirate Ship with plenty of room for Storage on the Middle Floor.
+  * Status: COMPLETE
+  * Required Mods: Antenna Anywhere, Arashi Fishing Expansion, Extra Settings API, Furniture Mod, More Storages, Stackable Placeables, Super Soaker, & WiFi Antenna.
+* VENT_Raft - My first Release. One of my Favorite builds for Survival.
+  * Status: COMPLETE
+  * Required Mods: Antenna Anywhere, Arashi Fishing Expansion, Cinema Mod, Extra Settings API, Furniture Mod, More Storages, Stackable Placeables, Super Soaker, & WiFi Antenna.
+
 # Visit Velociti Entertainment:
 * [Discord](http://discord.velocitientertainment.com)
 * [Website](http://velocitientertainment.com/)
