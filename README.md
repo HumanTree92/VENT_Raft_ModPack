@@ -14,7 +14,7 @@ This is a Mod Pack for Velociti Entertainments Private Raft Server.
 
 # How To:
 1) Open RMLLauncher and Click on Play
-2) Click on Mod Manager and make sure all mods are Loaded at Startup by click on the Infinity Symbol
+2) Click on Mod Manager and make sure all mods are Loaded at Startup by click on I icon and checking Load this mod at Startup
 3) Click F9 and go to the Raft Settings > Mods
 4) Make Sure No Support Override is Checked
 
