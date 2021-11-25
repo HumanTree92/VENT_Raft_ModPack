@@ -30,17 +30,18 @@ This is a Mod Pack for Velociti Entertainments Private Raft Server.
   * Required Mods: Antenna Anywhere, Arashi Fishing Expansion, Cinema Mod, Extra Settings API, Furniture Mod, More Storages, Stackable Placeables, Super Soaker, & WiFi Antenna.
 
 # Visit Velociti Entertainment:
-* [Discord](http://discord.velocitientertainment.com)
-* [Website](http://velocitientertainment.com/)
-* [Forums](http://velocitientertainment.com/forum)
-* [About Us](http://velocitientertainment.com/pc-gaming/)
-* [Donate](http://velocitientertainment.com/donations/)
-* [Steam Group](http://steamcommunity.com/groups/velocitientertainment)
-* [Facebook](http://facebook.com/VelocitiEntertainment)
-* [Twitter](http://twitter.com/VelocitiEnt)
-* [YouTube](http://youtube.com/user/HumanTree92)
-* [Twitch](http://twitch.tv/humantree92)
-* [eBay](http://ebay.com/usr/humantree92)
+* [Discord]( http://discord.velocitientertainment.com )
+* [Website]( http://velocitientertainment.com/ )
+* [Forums]( http://velocitientertainment.com/forum )
+* [About Us]( http://velocitientertainment.com/pc-gaming/ )
+* [Donate]( http://velocitientertainment.com/donations/ )
+* [Patreon] ( https://www.patreon.com/VelocitiEntertainment?fan_landing=true )
+* [Steam Group]( http://steamcommunity.com/groups/velocitientertainment )
+* [Facebook]( http://facebook.com/VelocitiEntertainment )
+* [Twitter]( http://twitter.com/VelocitiEnt )
+* [YouTube]( http://youtube.com/user/HumanTree92 )
+* [Twitch]( http://twitch.tv/humantree92 )
+* [GitHub]( https://github.com/HumanTree92 )
 
 # Legal
 ### License
